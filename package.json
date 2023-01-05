@@ -1,0 +1,8 @@
+{
+  "name": "experiment-couchbase-express",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:aalmacin/experiment-couchbase-express.git",
+  "author": "Aldrin Jerome Almacin <aldrinjerome19@gmail.com>",
+  "license": "MIT"
+}
