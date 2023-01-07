@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="benchmark-1.5.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/node_modules/couchbase/deps/couchbase-cxx-client/third_party/hdr_histogram_c/lib/benchmark-1.5.0.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
